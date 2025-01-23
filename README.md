@@ -12,7 +12,10 @@
 
 ---
 
-## 🔧 Skills Overview  
+## 📊 Skills Breakdown
+
+###**Core Technical Skills**
+
 | **Category**                 | **Tools/Technologies**                                                                 |
 |------------------------------|----------------------------------------------------------------------------------------|
 | **Programming**              | SQL (&T-SQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Java, HTML                  |
@@ -34,7 +37,7 @@
 ---
 
 ## 🎓 Education
-- University of Wisconsin-Madison | M.S. in Information Science (2022 – 2024)
+- University of Wisconsin-Madison | M.S. in Information Science
 
 ---
 ## 📬 Let’s Stay Connected  
