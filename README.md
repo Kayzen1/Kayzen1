@@ -1,46 +1,44 @@
-## Hi there 👋
-- I’m **Yuting Zeng**, a Data Analyst with over 3 years of experience in making data work for people. I love turning messy data into clear insights and building dashboards that help teams make smart decisions.
-
+## Hi there 👋 I'm Yuting Zeng
+- I’m a **Data Analyst** and **BI Developer** passionate about uncovering trends and delivering actionable insights from complex datasets. With expertise in **data analysis**, **data visualization**, and **business intelligence solutions**, I specialize in analyzing data, creating interactive dashboards, and leveraging advanced tools to support data-driven decision-making.
 ---
 
 ## 🔧 What I’m Good At  
-- **SQL**: Writing queries that get to the heart of the data. I’m all about CTEs, Joins, and making things run fast with indexing.  
-- **Python**: Cleaning, analyzing, and visualizing data with tools like Pandas, NumPy, and Matplotlib.  
-- **Data Visualization**: Creating easy-to-understand dashboards in Tableau and Power BI that tell a story.  
-- **ETL**: Automating data pipelines with tools like Azure Data Factory, Glue, Snowflake and Airflow.  
-- **Analysis**: Spotting trends, running A/B tests, and answering “why is this happening?” with data.  
+- **SQL&TSQL**: Proficient in writing complex queries for data extraction, transformation, and analysis. Experienced with CTEs, Joins, window functions, and optimizing performance using indexing and stored procedures
+- **Python**: Skilled in cleaning, analyzing, and visualizing data using libraries like Pandas, NumPy, Matplotlib, and Seaborn. Experienced in automating workflows, conducting time-series analysis, and developing unit tests to ensure data quality. 
+- **Data Analysis & Visualization**: Power BI (DAX), Tableau, Tableau Prep, Python (Pandas, Seaborn, Matplotlib), Excel (Pivot, VLOOKUP)
+- **Database & ETL Tools**: Hands-on experience with Azure Data Factory, Databricks, AWS (S3, Lambda, API, Athena), Airflow, SQL Server, MySQL, and MongoDB for ETL pipeline development and database management.
+- **Data Modeling**: Star Schema, Machine Learning (Time-Series, XGBoost)
+- **Testing**: Proficient in unit testing, data validation, and A/B testing to ensure accuracy and reliability of data pipelines and dashboards.
 
 ---
 
 ## 🔧 Skills Overview  
 | **Category**                 | **Tools/Technologies**                                                                 |
 |------------------------------|----------------------------------------------------------------------------------------|
-| **Programming**              | SQL, Python, HTML, CSS                                                                |
-| **Data Visualization**       | Tableau, Power BI, Excel, SAP Analytics Cloud                                         |
-| **Databases**                | Snowflake, PostgreSQL, MySQL, Azure SQL Database, MongoDB                             |
-| **Statistical Analysis**     | A/B Testing, Predictive Modeling, Exploratory Data Analysis                           |
-| **Data Tools & ETL**         | Alteryx, DBT, Apache Airflow, Databricks, Glue                                        |
-| **Platforms & Environments** | VSCode, Jupyter, Git, AWS(S3, Glue, Lambda, Athena), Azure                            |
+| **Programming**              | SQL (&T-SQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Java, HTML                  |
+| **Data Visualization**       | Tableau, Tableau Prep, Power BI (DAX), Excel (Pivot Tables, VLOOKUP), SAP Analytics Cloud|
+| **Databases**                | Snowflake, PostgreSQL, SQL Server, MySQL, Azure SQL Database, MongoDB                 |
+| **Statistical Analysis**     | A/B Testing, Time-Series Analysis, Predictive Modeling (XGBoost), Exploratory Data Analysis|
+| **Data Tools & ETL**         | Azure Data Factory, Databricks, AWS (S3, Lambda, Glue, API, Athena), Alteryx          |
+| **Platforms & Environments** | VSCode, Jupyter, Git, AWS CloudWatch/SNS, Azure CLI, Power Apps                       |
 
----
-
-## 📊 Skills Breakdown  
-### **Core Technical Skills**  
-- **SQL**: Advanced queries with CTEs, Window Functions, and optimizing performance using indexing.  
-- **Python**: Hands-on experience with Pandas, NumPy, and Matplotlib for data cleaning, analysis, and visualization.  
-- **ETL Processes**: Automating workflows and building pipelines with Snowflake, Apache Airflow, and DBT.  
-- **Statistical Analysis**: Expertise in A/B testing, root cause analysis, and predictive modeling.  
-- **Visualization Tools**: Creating interactive dashboards and reports in Tableau and Power BI that support decision-making.  
+--- 
 
 ### **Soft Skills**  
-- Strong communication and storytelling skills to explain data insights to non-technical stakeholders.  
-- Collaborative mindset with experience working in cross-functional teams.  
-- Problem-solving with a focus on actionable solutions and continuous improvement.  
+- **Communication**: Effective communication skills to translate complex data into actionable insights for non-technical stakeholders.
+- **Collaboration**: Strong collaboration skills, with experience in working with cross-functional and Agile teams.
+- **Problem Solving**: Detail-oriented problem-solving with a focus on accuracy, efficiency, and continuous improvement.
+- **Adaptability**: Ability to adapt to dynamic environments, ensuring successful project delivery under tight deadlines.
+- **Process Improvement**: Proactive in identifying process inefficiencies and implementing data-driven solutions for operational optimization.
 
 ---
 
+## 🎓 Education
+- University of Wisconsin-Madison | M.S. in Information Science (2022 – 2024)
+
+---
 ## 📬 Let’s Stay Connected  
-📧 **Email**: [yadavprachi5898@gmail.com](mailto:yadavprachi5898@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/prachi-yadav-559222189](https://linkedin.com/in/prachi-yadav-559222189)  
+📧 **Email**: [im.zengyt02@gmail.com](mailto:im.zengyt02@gmail.com)  
+🌐 **LinkedIn**: [linkedin.com/in/yuting-kay-zeng]([https://www.linkedin.com/in/yuting-kay-zeng/])  
 
 ---
