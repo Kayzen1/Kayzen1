@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Yuting Zeng
 - I’m a **Data Analyst** and **BI Developer** passionate about uncovering trends and delivering actionable insights from complex datasets. With expertise in **data analysis**, **data visualization**, and **business intelligence solutions**, I specialize in analyzing data, creating interactive dashboards, and leveraging advanced tools to support data-driven decision-making.
 ---
+! [Tableau Desktop Specialist](https://github.com/Kayzen1/Kayzen1/blob/main/tableau-desktop-specialist.png)
 
 ## 🔧 What I’m Good At  
 - **SQL&TSQL**: Proficient in writing complex queries for data extraction, transformation, and analysis. Experienced with CTEs, Joins, window functions, and optimizing performance using indexing and stored procedures
@@ -14,7 +15,7 @@
 
 ## 📊 Skills Breakdown
 
-###**Core Technical Skills**
+### **Core Technical Skills**
 
 | **Category**                 | **Tools/Technologies**                                                                 |
 |------------------------------|----------------------------------------------------------------------------------------|
